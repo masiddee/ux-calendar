@@ -1,0 +1,69 @@
+h1 {
+    padding-bottom: 50px;
+}
+
+h2 {
+    border-bottom: 1px solid #ccc;
+}
+
+.fc-state-default {
+    background-image: none;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+.fc-shareButton-button {
+    background-color: aqua;
+}
+
+#share_form {
+    margin-bottom: 50px;
+}
+
+#share_form .share-events-name {
+    margin-left: 10px;
+    width: 300px;
+    padding: 3px;
+}
+
+#share_form input[type="radio"], #share_form input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+#share_form label {
+    padding-left: 75px;
+}
+
+#share_form  label.radio-events {
+    padding-left: 125px;
+    padding-top: 10px;
+    font-weight: normal;
+    font-size: 16px;
+}
+
+#share_form  label.radio-events span {
+    font-weight: normal;
+    font-size: 14px;
+}
+
+#share_form a.share-events {
+    margin-left: 105px;
+}
+
+#share_form div.select_events_cont {
+    margin-left: 145px;    
+}
+
+#share_form div.select_events_cont.disable {
+    display: none;
+}
+
+#share_form div.select_events_cont span {
+    padding: 5px 25px 5px 0;
+}
+
+#share_form div.form-actions {
+    background-color: #eee;
+    padding: 20px;
+    margin-top: 30px;
+}
